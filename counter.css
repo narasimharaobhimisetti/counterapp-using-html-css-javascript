@@ -1,0 +1,28 @@
+body{
+    margin:0px;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 0px;
+    justify-content: center;
+    text-align: center;
+    
+    box-sizing: border-box;}
+    .main{
+        background-color: aqua;
+        height: 40%;
+        width: 40%;
+        border:2px solid red;
+        border-radius: 14px;
+    }
+h1{
+    font-size: 4rem;
+}
+.value{
+    font-size: 6rem;
+}
+  i{
+    font-size: 25px;
+    padding:0px 10px;
+  
+};
